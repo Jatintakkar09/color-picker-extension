@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Color Picker",
+  "description": "A tool to pick color from the page",
+  "version": "1.0",
+  "icons": {
+    "16": "images.jpg"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
